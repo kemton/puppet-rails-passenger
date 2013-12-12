@@ -1,4 +1,4 @@
-class rails::apache {
+class apache {
 
 	package {"apache2":
                 ensure => present,
