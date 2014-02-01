@@ -1,5 +1,6 @@
 Puppet-rails-Passenger
 ======================
+HOX! Puppet-rails-Passenger is not already in production server! Do not yet use it. First version coming soon.
 
 This module helps you easily deploy Ruby on Rails production environment into your server.
 
